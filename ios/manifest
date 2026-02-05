@@ -1,0 +1,19 @@
+#
+# this is your module manifest and used by Titanium
+# during compilation, packaging, distribution, etc.
+#
+version: 1.0.1
+apiversion: 2
+architectures: arm64 x86_64
+mac: false
+description: Ti.Tween
+author: Douglas Alves
+license: MIT
+copyright: Copyright (c) 2026 by Upflix Inc.
+
+# these should not be edited
+name: Ti.Tween
+moduleid: ti.tween
+guid: eafb3b36-f104-49b3-8ba6-30e8ea2cffc7
+platform: iphone
+minsdk: 13.1.0.GA
